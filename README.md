@@ -7,7 +7,7 @@ Understanding when to use a remote desktop or map a network folder is crucial fo
 > Make sure to back up your data **-outside-** the server (e.g., lab PC or Google Drive); data is saved for no longer
 > than **-60 days-** or earlier. Your lab folder is subjected to the same 60-day rule and, thus, is not a suitable backup location.
 
-## Decision-Making Flowchart
+## When to use each method: A Decision-Making Flowchart
 
 ```mermaid
 graph TD;
