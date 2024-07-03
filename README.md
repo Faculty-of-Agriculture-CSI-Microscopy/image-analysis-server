@@ -17,4 +17,4 @@ graph TD;
     C -->|No| E[Local Access or Other Solutions]
 
     B --> F[For resource-intensive tasks]
-    D --> G[Collaborative work and file sharing]
+    D --> G[File transfer from the server to your PC]
