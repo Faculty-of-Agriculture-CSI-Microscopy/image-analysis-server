@@ -2,6 +2,7 @@
 
 ## Introduction
 Understanding when to use a remote desktop or map a network folder is crucial for efficient data management. This guide will help you decide which method you need based on different scenarios.
+[Image Analysis Server Access - For HUJI Users](https://drive.google.com/file/d/118CQXZPBCW-mHCuB_DfPmw-stnbfy4up/view?usp=sharing)
 
 ## Decision-Making Flowchart
 
